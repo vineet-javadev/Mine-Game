@@ -1,0 +1,4 @@
+database name - minegamedb
+database username - admin
+database password - database1pass
+endpoint - database-1.czky0gi04ylb.eu-north-1.rds.amazonaws.com
